@@ -15,4 +15,4 @@ Code - <a href="https://github.com/ArthIJani/TheSparksFoundationInternship/blob/
 <br>
 From the given 'Iris' Dataset, predict the optimum number of clusters and represent it visually.
 <br>
-Code - <a href="https://github.com/ArthIJani/TheSparksFoundationInternship/blob/main/Task-1/Task1_LinearRegression.ipynb">Link</a>
+Code - <a href="https://github.com/ArthIJani/TheSparksFoundationInternship/blob/main/Task-2/Task_2_KMeansClustering.ipynb">Link</a>
